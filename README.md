@@ -16,6 +16,7 @@ This is mainly for personal tracking
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
+| [1448-maximum-69-number](https://github.com/darshanhase/LeetCode-central/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
@@ -28,4 +29,8 @@ This is mainly for personal tracking
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/darshanhase/LeetCode-central/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
