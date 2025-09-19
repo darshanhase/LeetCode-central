@@ -24,6 +24,7 @@ This is mainly for personal tracking
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0001-two-sum) |
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
 ## Binary Search
@@ -48,4 +49,8 @@ This is mainly for personal tracking
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
