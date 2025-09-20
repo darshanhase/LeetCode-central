@@ -1,6 +1,40 @@
 # LeetCode-central
-This is mainly for personal tracking
+# 🧠 LeetCode Revision Tracker
 
+This repository serves as a **personal log of solved LeetCode problems**, designed for **quick revision** and **concept reinforcement**. It helps streamline review sessions by organizing solutions for fast lookup and pattern recognition.
+
+---
+
+## ✨ Purpose
+
+- Track progress across various problem types and difficulty levels  
+- Revisit previously solved questions efficiently  
+---
+
+## 📁 Structure
+
+Problems are grouped by topic, such as:
+
+- Arrays  
+- Dynamic Programming (DP)  
+- Graphs  
+- Strings  
+- Trees  
+- Sliding Window  
+- Two Pointers  
+- Binary Search  
+- Stack / Queue  
+- Recursion / Backtracking  
+
+
+
+##  Ideal For
+
+-  Rapid pre-interview brushing  
+-  Spotting patterns across similar problems  
+-  Building a personal knowledge base of techniques and templates  
+
+---
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Divide and Conquer
