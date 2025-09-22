@@ -72,6 +72,7 @@ Problems are grouped by topic, such as:
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
 ## Binary Search
 |  |
@@ -80,6 +81,7 @@ Problems are grouped by topic, such as:
 | [0540-single-element-in-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
 ## Greedy
 |  |
@@ -111,6 +113,7 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/darshanhase/LeetCode-central/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +126,8 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
