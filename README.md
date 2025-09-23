@@ -64,6 +64,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0001-two-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/darshanhase/LeetCode-central/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanhase/LeetCode-central/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0137-single-number-ii) |
 | [0485-max-consecutive-ones](https://github.com/darshanhase/LeetCode-central/tree/master/0485-max-consecutive-ones) |
@@ -130,4 +131,8 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/darshanhase/LeetCode-central/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
