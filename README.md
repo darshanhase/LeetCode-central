@@ -65,6 +65,7 @@ Problems are grouped by topic, such as:
 | [0001-two-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/darshanhase/LeetCode-central/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanhase/LeetCode-central/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0137-single-number-ii) |
 | [0485-max-consecutive-ones](https://github.com/darshanhase/LeetCode-central/tree/master/0485-max-consecutive-ones) |
@@ -118,6 +119,7 @@ Problems are grouped by topic, such as:
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0088-merge-sorted-array) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -135,4 +137,5 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/darshanhase/LeetCode-central/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
