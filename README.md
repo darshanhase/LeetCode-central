@@ -52,12 +52,14 @@ Problems are grouped by topic, such as:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/darshanhase/LeetCode-central/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanhase/LeetCode-central/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/darshanhase/LeetCode-central/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/darshanhase/LeetCode-central/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
 ## Array
 |  |
@@ -140,4 +142,8 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0056-merge-intervals](https://github.com/darshanhase/LeetCode-central/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/darshanhase/LeetCode-central/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
