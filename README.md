@@ -54,6 +54,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0002-add-two-numbers](https://github.com/darshanhase/LeetCode-central/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanhase/LeetCode-central/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/darshanhase/LeetCode-central/tree/master/1448-maximum-69-number) |
 ## Recursion
@@ -61,6 +62,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0002-add-two-numbers](https://github.com/darshanhase/LeetCode-central/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanhase/LeetCode-central/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,4 +149,8 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/darshanhase/LeetCode-central/tree/master/0002-add-two-numbers) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
