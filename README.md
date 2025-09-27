@@ -53,6 +53,7 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/darshanhase/LeetCode-central/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/darshanhase/LeetCode-central/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanhase/LeetCode-central/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -104,6 +105,7 @@ Problems are grouped by topic, such as:
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/darshanhase/LeetCode-central/tree/master/0013-roman-to-integer) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1894-merge-strings-alternately](https://github.com/darshanhase/LeetCode-central/tree/master/1894-merge-strings-alternately) |
 ## Stack
@@ -114,6 +116,7 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/darshanhase/LeetCode-central/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/darshanhase/LeetCode-central/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
