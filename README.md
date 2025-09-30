@@ -41,6 +41,7 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Problems are grouped by topic, such as:
 | [0088-merge-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanhase/LeetCode-central/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0137-single-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/darshanhase/LeetCode-central/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/darshanhase/LeetCode-central/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +123,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0001-two-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/darshanhase/LeetCode-central/tree/master/0013-roman-to-integer) |
+| [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/darshanhase/LeetCode-central/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -160,6 +163,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0056-merge-intervals](https://github.com/darshanhase/LeetCode-central/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 ## Linked List
 |  |
@@ -173,4 +177,20 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/darshanhase/LeetCode-central/tree/master/0830-largest-triangle-area) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
