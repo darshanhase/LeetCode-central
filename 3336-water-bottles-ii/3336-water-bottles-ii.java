@@ -6,8 +6,8 @@ class Solution {
         while (empty >= numExchange) {
             empty = empty - numExchange; // Use up empty bottles
             totalDrank = totalDrank + 1; // Drink the new bottle
-            empty = empty + 1; // It becomes empty again
-            numExchange = numExchange + 1; // Exchange gets harder
+            empty++; // It becomes empty again
+            numExchange++; // Exchange gets harder
         }
         return totalDrank;
 
