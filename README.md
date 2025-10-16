@@ -228,4 +228,5 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/darshanhase/LeetCode-central/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/darshanhase/LeetCode-central/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
