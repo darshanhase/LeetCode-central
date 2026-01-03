@@ -130,6 +130,7 @@ Problems are grouped by topic, such as:
 | [0013-roman-to-integer](https://github.com/darshanhase/LeetCode-central/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/darshanhase/LeetCode-central/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/darshanhase/LeetCode-central/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/darshanhase/LeetCode-central/tree/master/0125-valid-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1894-merge-strings-alternately](https://github.com/darshanhase/LeetCode-central/tree/master/1894-merge-strings-alternately) |
@@ -161,6 +162,7 @@ Problems are grouped by topic, such as:
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/darshanhase/LeetCode-central/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/darshanhase/LeetCode-central/tree/master/0125-valid-palindrome) |
@@ -237,4 +239,8 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/darshanhase/LeetCode-central/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/darshanhase/LeetCode-central/tree/master/0182-duplicate-emails) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
