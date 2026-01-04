@@ -58,6 +58,7 @@ Problems are grouped by topic, such as:
 | [0007-reverse-integer](https://github.com/darshanhase/LeetCode-central/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/darshanhase/LeetCode-central/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/darshanhase/LeetCode-central/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/darshanhase/LeetCode-central/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
 | [0830-largest-triangle-area](https://github.com/darshanhase/LeetCode-central/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
@@ -108,6 +109,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/darshanhase/LeetCode-central/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/darshanhase/LeetCode-central/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
