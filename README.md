@@ -100,6 +100,7 @@ Problems are grouped by topic, such as:
 | [0830-largest-triangle-area](https://github.com/darshanhase/LeetCode-central/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanhase/LeetCode-central/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -151,6 +152,7 @@ Problems are grouped by topic, such as:
 | [0013-roman-to-integer](https://github.com/darshanhase/LeetCode-central/tree/master/0013-roman-to-integer) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/darshanhase/LeetCode-central/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanhase/LeetCode-central/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
