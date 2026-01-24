@@ -84,6 +84,7 @@ Problems are grouped by topic, such as:
 | [0015-3sum](https://github.com/darshanhase/LeetCode-central/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/darshanhase/LeetCode-central/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/darshanhase/LeetCode-central/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0059-spiral-matrix-ii) |
@@ -112,6 +113,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/darshanhase/LeetCode-central/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/darshanhase/LeetCode-central/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/darshanhase/LeetCode-central/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
