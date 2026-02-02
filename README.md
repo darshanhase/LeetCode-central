@@ -41,6 +41,7 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/darshanhase/LeetCode-central/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/darshanhase/LeetCode-central/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
@@ -85,6 +86,7 @@ Problems are grouped by topic, such as:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/darshanhase/LeetCode-central/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/darshanhase/LeetCode-central/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/darshanhase/LeetCode-central/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0059-spiral-matrix-ii) |
@@ -168,6 +170,7 @@ Problems are grouped by topic, such as:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/darshanhase/LeetCode-central/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanhase/LeetCode-central/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
