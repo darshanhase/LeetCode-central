@@ -93,6 +93,7 @@ Problems are grouped by topic, such as:
 | [0088-merge-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanhase/LeetCode-central/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/darshanhase/LeetCode-central/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/darshanhase/LeetCode-central/tree/master/0485-max-consecutive-ones) |
@@ -116,6 +117,7 @@ Problems are grouped by topic, such as:
 | [0033-search-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/darshanhase/LeetCode-central/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/darshanhase/LeetCode-central/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
