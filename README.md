@@ -88,6 +88,7 @@ Problems are grouped by topic, such as:
 | [0054-spiral-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/darshanhase/LeetCode-central/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/darshanhase/LeetCode-central/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/darshanhase/LeetCode-central/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanhase/LeetCode-central/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -155,6 +156,7 @@ Problems are grouped by topic, such as:
 | [0001-two-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darshanhase/LeetCode-central/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/darshanhase/LeetCode-central/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/darshanhase/LeetCode-central/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/darshanhase/LeetCode-central/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanhase/LeetCode-central/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -188,6 +190,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0054-spiral-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/darshanhase/LeetCode-central/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
