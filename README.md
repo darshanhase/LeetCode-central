@@ -51,6 +51,7 @@ Problems are grouped by topic, such as:
 | [0137-single-number-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/darshanhase/LeetCode-central/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanhase/LeetCode-central/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Math
@@ -101,6 +102,7 @@ Problems are grouped by topic, such as:
 | [0169-majority-element](https://github.com/darshanhase/LeetCode-central/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/darshanhase/LeetCode-central/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/darshanhase/LeetCode-central/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/darshanhase/LeetCode-central/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0540-single-element-in-a-sorted-array) |
@@ -125,6 +127,7 @@ Problems are grouped by topic, such as:
 | [0069-sqrtx](https://github.com/darshanhase/LeetCode-central/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/darshanhase/LeetCode-central/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
@@ -198,6 +201,7 @@ Problems are grouped by topic, such as:
 | [0075-sort-colors](https://github.com/darshanhase/LeetCode-central/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/darshanhase/LeetCode-central/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/darshanhase/LeetCode-central/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/darshanhase/LeetCode-central/tree/master/1894-merge-strings-alternately) |
