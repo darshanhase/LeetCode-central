@@ -112,6 +112,7 @@ Problems are grouped by topic, such as:
 | [0540-single-element-in-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/darshanhase/LeetCode-central/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/darshanhase/LeetCode-central/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
@@ -134,6 +135,7 @@ Problems are grouped by topic, such as:
 | [0287-find-the-duplicate-number](https://github.com/darshanhase/LeetCode-central/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
@@ -209,6 +211,7 @@ Problems are grouped by topic, such as:
 | [0125-valid-palindrome](https://github.com/darshanhase/LeetCode-central/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/darshanhase/LeetCode-central/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/darshanhase/LeetCode-central/tree/master/1894-merge-strings-alternately) |
 ## Matrix
@@ -232,6 +235,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/darshanhase/LeetCode-central/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -246,6 +250,7 @@ Problems are grouped by topic, such as:
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -264,6 +269,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
