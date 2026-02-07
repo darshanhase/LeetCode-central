@@ -15,7 +15,7 @@ class Solution {
             }
         }
 
-        List<Integer> res = new ArrayList<>(maxHeap)
+        List<Integer> res = new ArrayList<>(maxHeap);
         Collections.sort(res);
         return res;
     }
