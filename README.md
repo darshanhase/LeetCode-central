@@ -169,6 +169,7 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/darshanhase/LeetCode-central/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/darshanhase/LeetCode-central/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/darshanhase/LeetCode-central/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
@@ -314,10 +315,12 @@ Problems are grouped by topic, such as:
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/darshanhase/LeetCode-central/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/darshanhase/LeetCode-central/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -326,5 +329,6 @@ Problems are grouped by topic, such as:
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/darshanhase/LeetCode-central/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
