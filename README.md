@@ -49,6 +49,7 @@ Problems are grouped by topic, such as:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/darshanhase/LeetCode-central/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
@@ -64,6 +65,7 @@ Problems are grouped by topic, such as:
 | [0013-roman-to-integer](https://github.com/darshanhase/LeetCode-central/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/darshanhase/LeetCode-central/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/darshanhase/LeetCode-central/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/darshanhase/LeetCode-central/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
 | [0830-largest-triangle-area](https://github.com/darshanhase/LeetCode-central/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
@@ -336,4 +338,8 @@ Problems are grouped by topic, such as:
 | [0094-binary-tree-inorder-traversal](https://github.com/darshanhase/LeetCode-central/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/darshanhase/LeetCode-central/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
