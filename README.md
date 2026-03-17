@@ -55,6 +55,7 @@ Problems are grouped by topic, such as:
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/darshanhase/LeetCode-central/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
+| [1009-complement-of-base-10-integer](https://github.com/darshanhase/LeetCode-central/tree/master/1009-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanhase/LeetCode-central/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Math
 |  |
