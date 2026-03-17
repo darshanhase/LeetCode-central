@@ -85,6 +85,7 @@ Problems are grouped by topic, such as:
 | [0050-powx-n](https://github.com/darshanhase/LeetCode-central/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/darshanhase/LeetCode-central/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/darshanhase/LeetCode-central/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Problems are grouped by topic, such as:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/darshanhase/LeetCode-central/tree/master/0125-valid-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/darshanhase/LeetCode-central/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/darshanhase/LeetCode-central/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/darshanhase/LeetCode-central/tree/master/1894-merge-strings-alternately) |
 ## Stack
@@ -240,6 +242,7 @@ Problems are grouped by topic, such as:
 | [0054-spiral-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0059-spiral-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/darshanhase/LeetCode-central/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/darshanhase/LeetCode-central/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3336-water-bottles-ii) |
