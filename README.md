@@ -56,6 +56,7 @@ Problems are grouped by topic, such as:
 | [0287-find-the-duplicate-number](https://github.com/darshanhase/LeetCode-central/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/darshanhase/LeetCode-central/tree/master/1009-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanhase/LeetCode-central/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ Problems are grouped by topic, such as:
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanhase/LeetCode-central/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/darshanhase/LeetCode-central/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -267,6 +269,7 @@ Problems are grouped by topic, such as:
 | [0442-find-all-duplicates-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Linked List
 |  |
@@ -297,6 +300,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0169-majority-element](https://github.com/darshanhase/LeetCode-central/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Quickselect
 |  |
 | ------- |
