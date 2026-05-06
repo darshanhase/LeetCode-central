@@ -130,6 +130,7 @@ Problems are grouped by topic, such as:
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/darshanhase/LeetCode-central/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -229,6 +230,7 @@ Problems are grouped by topic, such as:
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
+| [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/darshanhase/LeetCode-central/tree/master/1894-merge-strings-alternately) |
 ## Matrix
 |  |
@@ -238,6 +240,7 @@ Problems are grouped by topic, such as:
 | [0073-set-matrix-zeroes](https://github.com/darshanhase/LeetCode-central/tree/master/0073-set-matrix-zeroes) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 ## Simulation
 |  |
 | ------- |
