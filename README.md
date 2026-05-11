@@ -134,6 +134,7 @@ Problems are grouped by topic, such as:
 | [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/1914-cyclically-rotating-a-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2553-separate-the-digits-in-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/darshanhase/LeetCode-central/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -258,6 +259,7 @@ Problems are grouped by topic, such as:
 | [1642-water-bottles](https://github.com/darshanhase/LeetCode-central/tree/master/1642-water-bottles) |
 | [1914-cyclically-rotating-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/1914-cyclically-rotating-a-grid) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3336-water-bottles-ii) |
 ## Sliding Window
 |  |
