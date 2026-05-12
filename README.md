@@ -130,6 +130,7 @@ Problems are grouped by topic, such as:
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darshanhase/LeetCode-central/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/1914-cyclically-rotating-a-grid) |
@@ -162,6 +163,7 @@ Problems are grouped by topic, such as:
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/darshanhase/LeetCode-central/tree/master/1448-maximum-69-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darshanhase/LeetCode-central/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Interactive
 |  |
@@ -283,6 +285,7 @@ Problems are grouped by topic, such as:
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darshanhase/LeetCode-central/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Linked List
 |  |
