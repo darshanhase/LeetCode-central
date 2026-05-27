@@ -186,6 +186,7 @@ Problems are grouped by topic, such as:
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/darshanhase/LeetCode-central/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/darshanhase/LeetCode-central/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/darshanhase/LeetCode-central/tree/master/1894-merge-strings-alternately) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Problems are grouped by topic, such as:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/darshanhase/LeetCode-central/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanhase/LeetCode-central/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Dynamic Programming
