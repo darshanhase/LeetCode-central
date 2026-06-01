@@ -136,6 +136,7 @@ Problems are grouped by topic, such as:
 | [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/1914-cyclically-rotating-a-grid) |
 | [2126-destroying-asteroids](https://github.com/darshanhase/LeetCode-central/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanhase/LeetCode-central/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2553-separate-the-digits-in-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/darshanhase/LeetCode-central/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -168,6 +169,7 @@ Problems are grouped by topic, such as:
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darshanhase/LeetCode-central/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2126-destroying-asteroids](https://github.com/darshanhase/LeetCode-central/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanhase/LeetCode-central/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Interactive
 |  |
 | ------- |
@@ -295,6 +297,7 @@ Problems are grouped by topic, such as:
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darshanhase/LeetCode-central/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2126-destroying-asteroids](https://github.com/darshanhase/LeetCode-central/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanhase/LeetCode-central/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Linked List
 |  |
 | ------- |
