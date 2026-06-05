@@ -79,6 +79,7 @@ Problems are grouped by topic, such as:
 | [3336-water-bottles-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3336-water-bottles-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -226,6 +227,7 @@ Problems are grouped by topic, such as:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanhase/LeetCode-central/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
 | [3660-jump-game-ix](https://github.com/darshanhase/LeetCode-central/tree/master/3660-jump-game-ix) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Prefix Sum
 |  |
 | ------- |
