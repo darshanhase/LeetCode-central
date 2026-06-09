@@ -145,6 +145,7 @@ Problems are grouped by topic, such as:
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanhase/LeetCode-central/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/darshanhase/LeetCode-central/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/darshanhase/LeetCode-central/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Problems are grouped by topic, such as:
 | [2126-destroying-asteroids](https://github.com/darshanhase/LeetCode-central/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanhase/LeetCode-central/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanhase/LeetCode-central/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/darshanhase/LeetCode-central/tree/master/3689-maximum-total-subarray-value-i) |
 ## Interactive
 |  |
 | ------- |
