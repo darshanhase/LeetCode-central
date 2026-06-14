@@ -205,6 +205,7 @@ Problems are grouped by topic, such as:
 | [0094-binary-tree-inorder-traversal](https://github.com/darshanhase/LeetCode-central/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/darshanhase/LeetCode-central/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/darshanhase/LeetCode-central/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +260,7 @@ Problems are grouped by topic, such as:
 | [0977-squares-of-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/darshanhase/LeetCode-central/tree/master/1894-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/darshanhase/LeetCode-central/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanhase/LeetCode-central/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
@@ -316,6 +318,7 @@ Problems are grouped by topic, such as:
 | [0002-add-two-numbers](https://github.com/darshanhase/LeetCode-central/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/darshanhase/LeetCode-central/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0092-reverse-linked-list-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/darshanhase/LeetCode-central/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Memoization
 |  |
 | ------- |
