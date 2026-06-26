@@ -127,6 +127,7 @@ Problems are grouped by topic, such as:
 | [0560-subarray-sum-equals-k](https://github.com/darshanhase/LeetCode-central/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
+| [0739-daily-temperatures](https://github.com/darshanhase/LeetCode-central/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/darshanhase/LeetCode-central/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
@@ -211,6 +212,7 @@ Problems are grouped by topic, such as:
 | [0020-valid-parentheses](https://github.com/darshanhase/LeetCode-central/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/darshanhase/LeetCode-central/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/darshanhase/LeetCode-central/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/darshanhase/LeetCode-central/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/darshanhase/LeetCode-central/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/darshanhase/LeetCode-central/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -427,4 +429,8 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/darshanhase/LeetCode-central/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
