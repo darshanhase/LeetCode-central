@@ -46,6 +46,7 @@ Problems are grouped by topic, such as:
 | [0191-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Problems are grouped by topic, such as:
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanhase/LeetCode-central/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3660-jump-game-ix](https://github.com/darshanhase/LeetCode-central/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/darshanhase/LeetCode-central/tree/master/3689-maximum-total-subarray-value-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Problems are grouped by topic, such as:
 | [3121-count-the-number-of-special-characters-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -251,6 +254,7 @@ Problems are grouped by topic, such as:
 | [0974-subarray-sums-divisible-by-k](https://github.com/darshanhase/LeetCode-central/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/darshanhase/LeetCode-central/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -415,4 +419,12 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
