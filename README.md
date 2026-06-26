@@ -201,6 +201,7 @@ Problems are grouped by topic, such as:
 | [0125-valid-palindrome](https://github.com/darshanhase/LeetCode-central/tree/master/0125-valid-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/darshanhase/LeetCode-central/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/darshanhase/LeetCode-central/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/darshanhase/LeetCode-central/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/darshanhase/LeetCode-central/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/darshanhase/LeetCode-central/tree/master/1894-merge-strings-alternately) |
@@ -215,6 +216,7 @@ Problems are grouped by topic, such as:
 | [0739-daily-temperatures](https://github.com/darshanhase/LeetCode-central/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/darshanhase/LeetCode-central/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/darshanhase/LeetCode-central/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/darshanhase/LeetCode-central/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
