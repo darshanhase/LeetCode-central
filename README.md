@@ -199,6 +199,7 @@ Problems are grouped by topic, such as:
 | [0020-valid-parentheses](https://github.com/darshanhase/LeetCode-central/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/darshanhase/LeetCode-central/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0387-first-unique-character-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/darshanhase/LeetCode-central/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/darshanhase/LeetCode-central/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -228,6 +229,7 @@ Problems are grouped by topic, such as:
 | [0073-set-matrix-zeroes](https://github.com/darshanhase/LeetCode-central/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/darshanhase/LeetCode-central/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/darshanhase/LeetCode-central/tree/master/0525-contiguous-array) |
@@ -360,6 +362,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0169-majority-element](https://github.com/darshanhase/LeetCode-central/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Quickselect
 |  |
@@ -391,6 +394,7 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/darshanhase/LeetCode-central/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
