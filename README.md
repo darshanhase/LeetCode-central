@@ -140,6 +140,7 @@ Problems are grouped by topic, such as:
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darshanhase/LeetCode-central/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/darshanhase/LeetCode-central/tree/master/1833-maximum-ice-cream-bars) |
 | [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/1914-cyclically-rotating-a-grid) |
 | [2126-destroying-asteroids](https://github.com/darshanhase/LeetCode-central/tree/master/2126-destroying-asteroids) |
@@ -179,6 +180,7 @@ Problems are grouped by topic, such as:
 | [1448-maximum-69-number](https://github.com/darshanhase/LeetCode-central/tree/master/1448-maximum-69-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darshanhase/LeetCode-central/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/darshanhase/LeetCode-central/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/darshanhase/LeetCode-central/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanhase/LeetCode-central/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanhase/LeetCode-central/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -329,6 +331,7 @@ Problems are grouped by topic, such as:
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darshanhase/LeetCode-central/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/darshanhase/LeetCode-central/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/darshanhase/LeetCode-central/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanhase/LeetCode-central/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanhase/LeetCode-central/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -439,4 +442,8 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/darshanhase/LeetCode-central/tree/master/0739-daily-temperatures) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/darshanhase/LeetCode-central/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
