@@ -131,6 +131,7 @@ Problems are grouped by topic, such as:
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/darshanhase/LeetCode-central/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/darshanhase/LeetCode-central/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanhase/LeetCode-central/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/darshanhase/LeetCode-central/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -168,6 +169,7 @@ Problems are grouped by topic, such as:
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/darshanhase/LeetCode-central/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/darshanhase/LeetCode-central/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
