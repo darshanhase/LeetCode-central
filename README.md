@@ -148,6 +148,7 @@ Problems are grouped by topic, such as:
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanhase/LeetCode-central/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2553-separate-the-digits-in-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/darshanhase/LeetCode-central/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -295,6 +296,7 @@ Problems are grouped by topic, such as:
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/1914-cyclically-rotating-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -358,6 +360,7 @@ Problems are grouped by topic, such as:
 | [0215-kth-largest-element-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -417,6 +420,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0100-same-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -448,4 +452,12 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/darshanhase/LeetCode-central/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
