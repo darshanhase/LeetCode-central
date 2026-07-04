@@ -119,6 +119,7 @@ Problems are grouped by topic, such as:
 | [0238-product-of-array-except-self](https://github.com/darshanhase/LeetCode-central/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/darshanhase/LeetCode-central/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/darshanhase/LeetCode-central/tree/master/0485-max-consecutive-ones) |
@@ -167,6 +168,7 @@ Problems are grouped by topic, such as:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/darshanhase/LeetCode-central/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
@@ -295,6 +297,7 @@ Problems are grouped by topic, such as:
 | [0054-spiral-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/darshanhase/LeetCode-central/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
@@ -331,6 +334,7 @@ Problems are grouped by topic, such as:
 | [0169-majority-element](https://github.com/darshanhase/LeetCode-central/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/darshanhase/LeetCode-central/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
@@ -362,6 +366,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/darshanhase/LeetCode-central/tree/master/3620-network-recovery-pathways) |
