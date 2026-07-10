@@ -59,6 +59,7 @@ Problems are grouped by topic, such as:
 | [1009-complement-of-base-10-integer](https://github.com/darshanhase/LeetCode-central/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darshanhase/LeetCode-central/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Problems are grouped by topic, such as:
 | [2553-separate-the-digits-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2553-separate-the-digits-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/darshanhase/LeetCode-central/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-network-recovery-pathways](https://github.com/darshanhase/LeetCode-central/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -177,6 +179,7 @@ Problems are grouped by topic, such as:
 | [0882-peak-index-in-a-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/darshanhase/LeetCode-central/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanhase/LeetCode-central/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
@@ -190,6 +193,7 @@ Problems are grouped by topic, such as:
 | [1833-maximum-ice-cream-bars](https://github.com/darshanhase/LeetCode-central/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/darshanhase/LeetCode-central/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanhase/LeetCode-central/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanhase/LeetCode-central/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/darshanhase/LeetCode-central/tree/master/3689-maximum-total-subarray-value-i) |
 ## Interactive
@@ -256,6 +260,7 @@ Problems are grouped by topic, such as:
 | [0053-maximum-subarray](https://github.com/darshanhase/LeetCode-central/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanhase/LeetCode-central/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/darshanhase/LeetCode-central/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/darshanhase/LeetCode-central/tree/master/3660-jump-game-ix) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -290,6 +295,7 @@ Problems are grouped by topic, such as:
 | [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/darshanhase/LeetCode-central/tree/master/1894-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/darshanhase/LeetCode-central/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanhase/LeetCode-central/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
@@ -345,6 +351,7 @@ Problems are grouped by topic, such as:
 | [1833-maximum-ice-cream-bars](https://github.com/darshanhase/LeetCode-central/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/darshanhase/LeetCode-central/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/darshanhase/LeetCode-central/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/darshanhase/LeetCode-central/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
@@ -465,6 +472,7 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/darshanhase/LeetCode-central/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
