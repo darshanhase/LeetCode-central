@@ -82,6 +82,7 @@ Problems are grouped by topic, such as:
 | [3336-water-bottles-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3336-water-bottles-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/darshanhase/LeetCode-central/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -452,6 +453,7 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/darshanhase/LeetCode-central/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Segment Tree
 |  |
 | ------- |
