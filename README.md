@@ -485,4 +485,8 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/darshanhase/LeetCode-central/tree/master/3620-network-recovery-pathways) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/darshanhase/LeetCode-central/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
