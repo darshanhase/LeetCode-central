@@ -80,6 +80,7 @@ Problems are grouped by topic, such as:
 | [1642-water-bottles](https://github.com/darshanhase/LeetCode-central/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/darshanhase/LeetCode-central/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/darshanhase/LeetCode-central/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -152,6 +153,7 @@ Problems are grouped by topic, such as:
 | [2324-find-triangular-sum-of-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/2553-separate-the-digits-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/darshanhase/LeetCode-central/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/darshanhase/LeetCode-central/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -261,6 +263,7 @@ Problems are grouped by topic, such as:
 | [0053-maximum-subarray](https://github.com/darshanhase/LeetCode-central/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darshanhase/LeetCode-central/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/darshanhase/LeetCode-central/tree/master/1013-fibonacci-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/darshanhase/LeetCode-central/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/darshanhase/LeetCode-central/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/darshanhase/LeetCode-central/tree/master/3660-jump-game-ix) |
@@ -452,6 +455,7 @@ Problems are grouped by topic, such as:
 ## Number Theory
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/darshanhase/LeetCode-central/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/darshanhase/LeetCode-central/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Segment Tree
