@@ -436,12 +436,14 @@ Problems are grouped by topic, such as:
 | [0094-binary-tree-inorder-traversal](https://github.com/darshanhase/LeetCode-central/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/darshanhase/LeetCode-central/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -455,6 +457,7 @@ Problems are grouped by topic, such as:
 | [0094-binary-tree-inorder-traversal](https://github.com/darshanhase/LeetCode-central/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
