@@ -118,6 +118,7 @@ Problems are grouped by topic, such as:
 | [0137-single-number-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/darshanhase/LeetCode-central/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/darshanhase/LeetCode-central/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/darshanhase/LeetCode-central/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/darshanhase/LeetCode-central/tree/master/0238-product-of-array-except-self) |
@@ -313,6 +314,7 @@ Problems are grouped by topic, such as:
 | [0054-spiral-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/darshanhase/LeetCode-central/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/darshanhase/LeetCode-central/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/darshanhase/LeetCode-central/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -444,6 +446,7 @@ Problems are grouped by topic, such as:
 | [0094-binary-tree-inorder-traversal](https://github.com/darshanhase/LeetCode-central/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/darshanhase/LeetCode-central/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
@@ -451,6 +454,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0100-same-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/darshanhase/LeetCode-central/tree/master/0200-number-of-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
@@ -513,4 +517,8 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/darshanhase/LeetCode-central/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
