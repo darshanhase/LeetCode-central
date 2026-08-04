@@ -142,6 +142,7 @@ Problems are grouped by topic, such as:
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/darshanhase/LeetCode-central/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/darshanhase/LeetCode-central/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/darshanhase/LeetCode-central/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/darshanhase/LeetCode-central/tree/master/0994-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -317,6 +318,7 @@ Problems are grouped by topic, such as:
 | [0200-number-of-islands](https://github.com/darshanhase/LeetCode-central/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
+| [0994-rotting-oranges](https://github.com/darshanhase/LeetCode-central/tree/master/0994-rotting-oranges) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/1914-cyclically-rotating-a-grid) |
@@ -455,6 +457,7 @@ Problems are grouped by topic, such as:
 | [0100-same-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/darshanhase/LeetCode-central/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/darshanhase/LeetCode-central/tree/master/0994-rotting-oranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
