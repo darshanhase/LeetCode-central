@@ -146,6 +146,7 @@ Problems are grouped by topic, such as:
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/darshanhase/LeetCode-central/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1631-path-with-minimum-effort](https://github.com/darshanhase/LeetCode-central/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/darshanhase/LeetCode-central/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/darshanhase/LeetCode-central/tree/master/1833-maximum-ice-cream-bars) |
@@ -187,6 +188,7 @@ Problems are grouped by topic, such as:
 | [0882-peak-index-in-a-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/darshanhase/LeetCode-central/tree/master/1185-find-in-mountain-array) |
+| [1631-path-with-minimum-effort](https://github.com/darshanhase/LeetCode-central/tree/master/1631-path-with-minimum-effort) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/darshanhase/LeetCode-central/tree/master/3620-network-recovery-pathways) |
@@ -319,6 +321,7 @@ Problems are grouped by topic, such as:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-flipping-an-image](https://github.com/darshanhase/LeetCode-central/tree/master/0861-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/darshanhase/LeetCode-central/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/darshanhase/LeetCode-central/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/darshanhase/LeetCode-central/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/darshanhase/LeetCode-central/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/1914-cyclically-rotating-a-grid) |
@@ -390,6 +393,7 @@ Problems are grouped by topic, such as:
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/darshanhase/LeetCode-central/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
+| [1631-path-with-minimum-effort](https://github.com/darshanhase/LeetCode-central/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/darshanhase/LeetCode-central/tree/master/3620-network-recovery-pathways) |
 ## Bucket Sort
@@ -452,6 +456,7 @@ Problems are grouped by topic, such as:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/darshanhase/LeetCode-central/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/darshanhase/LeetCode-central/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -460,6 +465,7 @@ Problems are grouped by topic, such as:
 | [0200-number-of-islands](https://github.com/darshanhase/LeetCode-central/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/darshanhase/LeetCode-central/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/darshanhase/LeetCode-central/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/darshanhase/LeetCode-central/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/darshanhase/LeetCode-central/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
@@ -528,6 +534,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0200-number-of-islands](https://github.com/darshanhase/LeetCode-central/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/darshanhase/LeetCode-central/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/darshanhase/LeetCode-central/tree/master/1631-path-with-minimum-effort) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -536,4 +543,8 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/darshanhase/LeetCode-central/tree/master/0785-is-graph-bipartite) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/darshanhase/LeetCode-central/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
