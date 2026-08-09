@@ -223,6 +223,7 @@ Problems are grouped by topic, such as:
 | [0020-valid-parentheses](https://github.com/darshanhase/LeetCode-central/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/darshanhase/LeetCode-central/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/darshanhase/LeetCode-central/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0387-first-unique-character-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/darshanhase/LeetCode-central/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/darshanhase/LeetCode-central/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -253,6 +254,7 @@ Problems are grouped by topic, such as:
 | [0012-integer-to-roman](https://github.com/darshanhase/LeetCode-central/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/darshanhase/LeetCode-central/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/darshanhase/LeetCode-central/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/darshanhase/LeetCode-central/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/darshanhase/LeetCode-central/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/darshanhase/LeetCode-central/tree/master/0387-first-unique-character-in-a-string) |
@@ -462,6 +464,7 @@ Problems are grouped by topic, such as:
 | ------- |
 | [0100-same-tree](https://github.com/darshanhase/LeetCode-central/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/darshanhase/LeetCode-central/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/darshanhase/LeetCode-central/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/darshanhase/LeetCode-central/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/darshanhase/LeetCode-central/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/darshanhase/LeetCode-central/tree/master/0994-rotting-oranges) |
@@ -547,4 +550,8 @@ Problems are grouped by topic, such as:
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/darshanhase/LeetCode-central/tree/master/1631-path-with-minimum-effort) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/darshanhase/LeetCode-central/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
