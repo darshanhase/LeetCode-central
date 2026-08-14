@@ -234,6 +234,7 @@ Problems are grouped by topic, such as:
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/darshanhase/LeetCode-central/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/darshanhase/LeetCode-central/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/darshanhase/LeetCode-central/tree/master/1894-merge-strings-alternately) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/darshanhase/LeetCode-central/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/darshanhase/LeetCode-central/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -270,6 +271,7 @@ Problems are grouped by topic, such as:
 | [0974-subarray-sums-divisible-by-k](https://github.com/darshanhase/LeetCode-central/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/darshanhase/LeetCode-central/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/darshanhase/LeetCode-central/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/darshanhase/LeetCode-central/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/darshanhase/LeetCode-central/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darshanhase/LeetCode-central/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/darshanhase/LeetCode-central/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -355,6 +357,7 @@ Problems are grouped by topic, such as:
 | [0658-find-k-closest-elements](https://github.com/darshanhase/LeetCode-central/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/darshanhase/LeetCode-central/tree/master/1046-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/darshanhase/LeetCode-central/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/darshanhase/LeetCode-central/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
